@@ -1,0 +1,23 @@
+{
+    "name": "model-change-binding",
+    "namespace": "com.domain",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": "",
+    "author": "",
+    "email": "",
+    "puremvc": {
+        "namespace": "com.domain"
+    },
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "npmvc": ">=1.0.6"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
